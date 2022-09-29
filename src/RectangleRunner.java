@@ -15,7 +15,7 @@ public class RectangleRunner {
 		rect3.printArea();
 		rect3.printPerimeter();
 
-		// test comment thing
+		// test comment thing 2
 		// thanks angel for setting commit username and email globally!
 	}
 }
