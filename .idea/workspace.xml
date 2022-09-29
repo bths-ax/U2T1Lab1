@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bbf953d-b79c-49cb-97b8-9192437a0124" name="Changes" comment="did some copy pasting">
-      <change afterPath="$PROJECT_DIR$/src/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CatRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rectangle.java" afterDir="false" />
+    <list default="true" id="0bbf953d-b79c-49cb-97b8-9192437a0124" name="Changes" comment="and then finished everything else">
       <change beforePath="$PROJECT_DIR$/src/RectangleRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RectangleRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664456377177</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="and then finished everything else">
+      <created>1664457312655</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664457312655</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,6 +101,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="did some copy pasting" />
-    <option name="LAST_COMMIT_MESSAGE" value="did some copy pasting" />
+    <MESSAGE value="and then finished everything else" />
+    <option name="LAST_COMMIT_MESSAGE" value="and then finished everything else" />
   </component>
 </project>

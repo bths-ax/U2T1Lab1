@@ -14,5 +14,8 @@ public class RectangleRunner {
 		Rectangle rect3 = new Rectangle(1, 2);
 		rect3.printArea();
 		rect3.printPerimeter();
+
+		// test comment thing
+		// thanks angel for setting commit username and email globally!
 	}
 }
